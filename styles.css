@@ -9,6 +9,7 @@ body {
   justify-content: center;
   width: 100vw;
   font-family: Verdana, Tahoma, sans-serif;
+  scroll-behavior: smooth;
 }
 
 header {
