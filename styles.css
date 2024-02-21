@@ -10,6 +10,7 @@ body {
   width: 100vw;
   font-family: Verdana, Tahoma, sans-serif;
   scroll-behavior: smooth;
+  overflow: hidden;
 }
 
 header {
